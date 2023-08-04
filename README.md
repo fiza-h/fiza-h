@@ -35,3 +35,13 @@
     <img src="https://skillicons.dev/icons?i=git,css,discord,figma,github,html,java,js,python,ai,visualstudio,vscode=12" />
   </a>
 </p>
+
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<h2 align="center">Connect With Me!</a></h2>
+<!--icons and links-->
+<p align="center">
+<a href="www.linkedin.com/in/fizahussain03" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https:fiza-h.github.io" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a> 
+</p>
+
