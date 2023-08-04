@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fiza</a></h1>
-<h3 align="center">An Aspiring Front-End Developer from Karachi, Pakistan&#127470;&#127475</h3>
+<h3 align="center">An Aspiring Front-End Developer from Karachi, Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fiza-h&label=Profile%20views&color=brightgreen&style=flat" alt="fiza-h" /> </p>
 
