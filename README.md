@@ -25,6 +25,8 @@
 - 📝 Access my <a href="https://github.com/fiza-h/fiza-h.github.io/blob/master/Resume%20-%20Fiza%20Hussain%20Updated.pdf" target="blank">**Resume**</a>
 <br>
 <br>
+<br>
+<br>
 
 <h2 align="center">Technologies That I Use</a></h2>
 <!--tech stack icons-->
