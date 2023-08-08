@@ -18,8 +18,6 @@
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
-
 - 📫 How to reach me **hussainfiza57@gmail.com**
 
 - 📄 Visit my <a href="https://fiza-h.github.io" target="blank">**Portfolio Website**</a>
